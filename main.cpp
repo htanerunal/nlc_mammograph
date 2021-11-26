@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Neural Logic Circuits - NLC - v1
+//  Neural Logic Circuits - NLC - v1.0
 //
 //  Created by Hamit Taner Ünal on 30.04.2021.
 //  Copyright © 2021 Hamit Taner Ünal & Prof.Fatih Başçiftçi. All rights reserved.
