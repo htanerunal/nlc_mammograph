@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/nlc_mammograph.dir/main.cpp.o"
+  "CMakeFiles/nlc_mammograph.dir/main.cpp.o.d"
   "nlc_mammograph"
   "nlc_mammograph.pdb"
 )

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jetkiteinc/CLionProjects/nlc_mammograph
+# Install script for directory: /Users/hamit/CLionProjects/nlc_mammograph
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/jetkiteinc/CLionProjects/nlc_mammograph/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/hamit/CLionProjects/nlc_mammograph/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,3 +1,3 @@
-/Users/jetkiteinc/CLionProjects/nlc_mammograph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/jetkiteinc/CLionProjects/nlc_mammograph/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jetkiteinc/CLionProjects/nlc_mammograph/cmake-build-debug/CMakeFiles/nlc_mammograph.dir
+/Users/hamit/CLionProjects/nlc_mammograph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hamit/CLionProjects/nlc_mammograph/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hamit/CLionProjects/nlc_mammograph/cmake-build-debug/CMakeFiles/nlc_mammograph.dir

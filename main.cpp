@@ -43,7 +43,7 @@ int main(int argc, const char * argv[]) {
     //srand(time.tv_usec);
 
     //Randomize with a number
-    seed = 4;
+    seed = 0;
     srand(seed);
 
     //Read CSV File
@@ -280,7 +280,7 @@ int main(int argc, const char * argv[]) {
     //Define initial max number of gates. This number will be increased gradually over iterations
     float initialMaxGates = 1.0f;
     //Number of max connections for each gate. Determined randomly (minimum=2)
-    int connectMax = 4;
+    int connectMax = 5;
     //Are we going to use XOR gates (XOR-XNOR)?
     bool useXOR= true;
     int maxGateType;
@@ -300,7 +300,7 @@ int main(int argc, const char * argv[]) {
     int tournamentCount = (int)((float)populationSize*tournamentRate);
 
     //Crossover Parameters
-    float crossoverRate = 0.65f;
+    float crossoverRate = 0.55f;
     float gateTypeCrossoverRate = 1.0f;//This is a new parameter checking if gateType will be crossed during crossover (together with the bits)
 
     //Mutation Parameters
@@ -319,7 +319,7 @@ int main(int argc, const char * argv[]) {
 
     //Evaluation Parameters
     bool useKFold= true;
-    int currentKFold=0;
+    int currentKFold=9;
 
     //Let's start GA!
     //Create Initial Population
